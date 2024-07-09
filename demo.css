@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+p{
+    margin: 1rem 2rem 3rem 4rem;
+    border: solid;
+    padding: 2rem;
+    
+}
+.list{
+    text-align: center;
+    color: blueviolet;
+}
+#mylist{
+    text-align: center;
+    color: chocolate;
+}
